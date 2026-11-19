@@ -1,0 +1,7 @@
+D:\Dalarna University (Year 1)\OOP C#\Lessons\connectToGithub_secondLesson\connectToGithub_secondLesson\bin\Debug\connectToGithub_secondLesson.exe.config
+D:\Dalarna University (Year 1)\OOP C#\Lessons\connectToGithub_secondLesson\connectToGithub_secondLesson\bin\Debug\connectToGithub_secondLesson.exe
+D:\Dalarna University (Year 1)\OOP C#\Lessons\connectToGithub_secondLesson\connectToGithub_secondLesson\bin\Debug\connectToGithub_secondLesson.pdb
+D:\Dalarna University (Year 1)\OOP C#\Lessons\connectToGithub_secondLesson\connectToGithub_secondLesson\obj\Debug\connectToGithub_secondLesson.csproj.AssemblyReference.cache
+D:\Dalarna University (Year 1)\OOP C#\Lessons\connectToGithub_secondLesson\connectToGithub_secondLesson\obj\Debug\connectToGithub_secondLesson.csproj.CoreCompileInputs.cache
+D:\Dalarna University (Year 1)\OOP C#\Lessons\connectToGithub_secondLesson\connectToGithub_secondLesson\obj\Debug\connectToGithub_secondLesson.exe
+D:\Dalarna University (Year 1)\OOP C#\Lessons\connectToGithub_secondLesson\connectToGithub_secondLesson\obj\Debug\connectToGithub_secondLesson.pdb

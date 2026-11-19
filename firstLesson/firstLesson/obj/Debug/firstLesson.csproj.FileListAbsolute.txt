@@ -1,0 +1,7 @@
+D:\Dalarna University (Year 1)\OOP C#\Lessons\firstLesson\firstLesson\obj\Debug\firstLesson.csproj.AssemblyReference.cache
+D:\Dalarna University (Year 1)\OOP C#\Lessons\firstLesson\firstLesson\obj\Debug\firstLesson.csproj.CoreCompileInputs.cache
+D:\Dalarna University (Year 1)\OOP C#\Lessons\firstLesson\firstLesson\bin\Debug\firstLesson.exe.config
+D:\Dalarna University (Year 1)\OOP C#\Lessons\firstLesson\firstLesson\bin\Debug\firstLesson.exe
+D:\Dalarna University (Year 1)\OOP C#\Lessons\firstLesson\firstLesson\bin\Debug\firstLesson.pdb
+D:\Dalarna University (Year 1)\OOP C#\Lessons\firstLesson\firstLesson\obj\Debug\firstLesson.exe
+D:\Dalarna University (Year 1)\OOP C#\Lessons\firstLesson\firstLesson\obj\Debug\firstLesson.pdb
