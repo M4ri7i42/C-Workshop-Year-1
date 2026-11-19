@@ -10,7 +10,8 @@ namespace connectToGithub_secondLesson
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Martin was here...");
+            Console.WriteLine("Martin was here..."); 
+            Console.WriteLine("Martin was here too...");
         }
     }
 }
