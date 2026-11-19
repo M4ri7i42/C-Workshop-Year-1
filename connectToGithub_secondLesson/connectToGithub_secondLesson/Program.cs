@@ -12,6 +12,7 @@ namespace connectToGithub_secondLesson
         {
             Console.WriteLine("Martin was here..."); 
             Console.WriteLine("Martin was here too...");
+            Console.WriteLine("Martin is not here...");
         }
     }
 }
