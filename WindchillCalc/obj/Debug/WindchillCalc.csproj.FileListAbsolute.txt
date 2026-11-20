@@ -1,0 +1,7 @@
+D:\Dalarna University (Year 1)\OOP C#\Lessons\WindchillCalc\WindchillCalc\bin\Debug\WindchillCalc.exe.config
+D:\Dalarna University (Year 1)\OOP C#\Lessons\WindchillCalc\WindchillCalc\bin\Debug\WindchillCalc.exe
+D:\Dalarna University (Year 1)\OOP C#\Lessons\WindchillCalc\WindchillCalc\bin\Debug\WindchillCalc.pdb
+D:\Dalarna University (Year 1)\OOP C#\Lessons\WindchillCalc\WindchillCalc\obj\Debug\WindchillCalc.csproj.AssemblyReference.cache
+D:\Dalarna University (Year 1)\OOP C#\Lessons\WindchillCalc\WindchillCalc\obj\Debug\WindchillCalc.csproj.CoreCompileInputs.cache
+D:\Dalarna University (Year 1)\OOP C#\Lessons\WindchillCalc\WindchillCalc\obj\Debug\WindchillCalc.exe
+D:\Dalarna University (Year 1)\OOP C#\Lessons\WindchillCalc\WindchillCalc\obj\Debug\WindchillCalc.pdb
